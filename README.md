@@ -1,4 +1,4 @@
-# Green GameTek Test
+# Sample App
 
 Creating a lobby using ReactNative ( Consuming the API 'https://rallycoding.herokuapp.com/api/music_albums' )
 
